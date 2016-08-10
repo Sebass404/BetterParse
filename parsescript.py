@@ -1,4 +1,12 @@
 #!/usr/bin/python
+# encoding: UTF-8
+
+'''
+	BetterParse
+	
+	Author: Sebastian 'Sebass' Ausitn
+	Email: pensec31337@gmail.com
+'''
 import re
 import os
 import sys, traceback
